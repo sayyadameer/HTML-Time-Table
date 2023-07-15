@@ -1,0 +1,12 @@
+table,tr,th,td,caption{
+    border: 3px solid #05010a;
+    border-color: rgb(19, 19, 15);
+    border-collapse: collapse;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0.4rem;
+}
+body{
+    color: rgb(0, 0, 0);
+    background-color: rgb(216, 224, 232);
+    font-size: 13px;
+   }
